@@ -8,4 +8,3 @@ function indexPage() {
     window.location.href = "index.html";
 }
 
-console.log(one);
